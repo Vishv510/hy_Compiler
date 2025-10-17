@@ -128,7 +128,7 @@ cmake --build build
 ./build/comp my.hy
 
 # Run the final executable
-./build/out
+./out
 
 # Check the result. It should be 31.
 echo $?
